@@ -1,6 +1,6 @@
 import React from 'react'
 import useTheme from '../contexts/theme';
-import { useEffect} from 'react';
+
 
 function ThemeBtn() {
 
